@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**ggentil7/ggentil7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Repository </h1>
+<p>
+<img alt="Cursus" 			src="https://img.shields.io/badge/-Cursus-3DDC84?logo=42&logoColor=white"/>
+<img alt="Private" 			src="https://img.shields.io/badge/-Private-3DDC84?logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+<h2> Technology </h2>
+<p>
+<img alt="c" 			  src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white"/>
+<img alt="c++" 			src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white"/>
+<img alt="html" 		src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white"/>
+<img alt="css" 			src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"/>
+<img alt="js" 			src="https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=white"/>
+<img alt="react" 		src="https://img.shields.io/badge/-REACT-61DAFB?logo=REACT&logoColor=white"/>
+<img alt="docker" 	src="https://img.shields.io/badge/-DOCKER-2496ED?logo=DOCKER&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
