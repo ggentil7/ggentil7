@@ -1,7 +1,7 @@
 
 <h1> Repository </h1>
 
-<img alt="Cursus" 			src="https://img.shields.io/badge/-Cursus-3DDC84?logo=42&logoColor=white"/>(https://github.com/ggentil7/42-Cursus)
+<img alt="Cursus" 			src="https://img.shields.io/badge/-Cursus-3DDC84?logo=42&logoColor=white"
 <img alt="Private" 			src="https://img.shields.io/badge/-Private-3DDC84?logoColor=white"/>
 
 <h2> Technology </h2>
